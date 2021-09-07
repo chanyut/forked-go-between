@@ -9,7 +9,7 @@
     <img style="margin:40px" width="250px" src="./logo.png">
 </p>
 
-A distributed fault tolerant order book matching engine.
+A distributed fault-tolerant order book matching engine.
 
 ### Features
 
@@ -18,7 +18,7 @@ A distributed fault tolerant order book matching engine.
 - Order book depth
 - Calculate market price for a given quantity
 - Standard Price/time priority
-- Distributed and fault tolerant based on [Raft Consensus Algorithm](https://raft.github.io)
+- Distributed and fault-tolerant based on [Raft Consensus Algorithm](https://raft.github.io)
 
 ### Download binaries
 
