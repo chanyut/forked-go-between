@@ -1,0 +1,1 @@
+{"Book":{"market":"USD/BTC","bids":[],"asks":[{"id":"1","traderId":"1","side":"sell","quantity":"2","price":"200"},{"id":"2","traderId":"2","side":"sell","quantity":"2","price":"400"},{"id":"3","traderId":"3","side":"sell","quantity":"2","price":"600"}]},"Result":{"price":"2400","remainingQuantity":"0"},"Err":""}

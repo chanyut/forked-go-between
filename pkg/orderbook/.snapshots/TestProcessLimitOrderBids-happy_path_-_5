@@ -1,0 +1,1 @@
+{"Book":{"market":"USD/BTC","bids":[{"id":"4","traderId":"4","side":"buy","quantity":"1","price":"1000"}],"asks":[]},"Trades":[{"takerOrderId":"4","makerOrderId":"3","quantity":"1","price":"300"},{"takerOrderId":"4","makerOrderId":"2","quantity":"2","price":"400"},{"takerOrderId":"4","makerOrderId":"1","quantity":"5","price":"500"}],"Err":""}
