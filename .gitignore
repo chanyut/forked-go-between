@@ -8,5 +8,6 @@
 
 bin/
 data/
+dist/
 .idea/
 .vscode/
