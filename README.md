@@ -6,7 +6,7 @@
 [![Release](https://img.shields.io/github/release/danielgatis/go-between.svg?style=flat-square)](https://github.com/danielgatis/go-between/releases/latest)
 
 <p align="center">
-    <img style="margin:40px" width="250px" src="./logo.png">
+    <img width="250px" src="./logo.png">
 </p>
 
 A distributed fault-tolerant order book matching engine.
