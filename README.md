@@ -5,9 +5,9 @@
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-between)
 [![Release](https://img.shields.io/github/release/danielgatis/go-between.svg?style=flat-square)](https://github.com/danielgatis/go-between/releases/latest)
 
-<!-- <p align="center">
-    <img src="https://github.com/danielgatis/go-between/raw/master/logo.gif">
-</p> -->
+<p align="center">
+    <img style="margin:40px" width="250px" src="./logo.png">
+</p>
 
 A distributed fault tolerant order book matching engine.
 
