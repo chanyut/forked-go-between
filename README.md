@@ -44,11 +44,11 @@ go-between start --id=1 --market=USD/BTC --port=3001
 And add a two more nodes:
 
 ```sh
-go-between start --id=1 --market=USD/BTC --port=3002 --join=localhost:3001
+go-between start --id=2 --market=USD/BTC --port=3002 --join=localhost:3001
 ```
 
 ```sh
-go-between start --id=1 --market=USD/BTC --port=3003 --join=localhost:3001
+go-between start --id=3 --market=USD/BTC --port=3003 --join=localhost:3001
 ```
 
 ### API Endpoints
