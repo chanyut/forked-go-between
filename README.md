@@ -17,7 +17,7 @@ A distributed fault-tolerant order book matching engine.
 - Market orders
 - Order book depth
 - Calculate market price for a given quantity
-- Standard Price/time priority
+- Standard price/time priority
 - Distributed and fault-tolerant based on [Raft Consensus Algorithm](https://raft.github.io)
 
 ### Download binaries
